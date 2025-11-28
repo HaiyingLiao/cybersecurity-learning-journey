@@ -26,7 +26,7 @@ My goal is to build a strong foundation in security principles, develop practica
 
 | Date | Topic / Room / Module | Summary | Tools |
 |------|------------------------|---------|--------|
-| 2025-11-27 | Google Module 1 — Introduction to Cybersecurity | Learned what cybersecurity is, why it matters, and the importance of protecting PII/SPII to maintain trust and prevent breaches | PII, SPII, cybersecurity basics |
+| 2025-11-27 | [Google Module 1 — Introduction to Cybersecurity](Google/foundations-of-cybersecurity/modul-1) | Learned what cybersecurity is, why it matters, and the importance of protecting PII/SPII to maintain trust and prevent breaches | PII, SPII, cybersecurity basics |
 | 2025-11-28 | Offensive Security Intro (THM) | Learned what offensive security is, attacker mindset, and used dirb to brute-force hidden web directories | dirb, web recon |
 | ... | ... | ... | ... |
 
