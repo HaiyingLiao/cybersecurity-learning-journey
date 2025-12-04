@@ -73,9 +73,9 @@ Attackers use:
 
 ---
 
-## 🛠 Common Attack Types Today
+##  Common Attack Types Today
 
-### 🐟 Phishing
+### Phishing
 
 Tricking users into revealing sensitive data or executing malicious software.  
 Types include:
@@ -86,7 +86,7 @@ Types include:
 - Smishing
 - Vishing
 
-### 🦠 Malware
+### Malware
 
 Software designed to cause harm.  
 Examples:
@@ -96,29 +96,29 @@ Examples:
 - **Ransomware**
 - **Spyware**
 
-### 🎭 Social Engineering Attacks
+### Social Engineering Attacks
 
 - Social media phishing
 - Watering hole attacks
 - USB baiting
 - Physical impersonation
 
-### 🔑 Password Attacks
+### Password Attacks
 
 - Brute force
 - Rainbow table
 
-### 🪤 Supply-Chain Attacks
+### Supply-Chain Attacks
 
 Compromise occurs through vendors, partners, or software dependencies.
 
-### 🤖 Adversarial AI
+### Adversarial AI
 
 Manipulating AI/ML models to make attacks more effective.
 
 ---
 
-# 👥 Threat Actors & Hackers
+# Threat Actors & Hackers
 
 ### **APTs (Advanced Persistent Threats)**
 
@@ -141,7 +141,7 @@ Manipulating AI/ML models to make attacks more effective.
 
 ---
 
-## 🎯 Skills Gained
+## Skills Gained
 
 - Understanding how cybersecurity evolved over decades
 - Recognising historical malware behaviour and its modern versions
@@ -152,7 +152,7 @@ Manipulating AI/ML models to make attacks more effective.
 
 ---
 
-## 🛠 Concepts Learned
+## Concepts Learned
 
 - Malware evolution
 - Worm vs virus behaviour
