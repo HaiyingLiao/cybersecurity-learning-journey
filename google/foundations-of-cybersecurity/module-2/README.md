@@ -1,4 +1,4 @@
-# 🎓 Google Cybersecurity Certificate — The History of Cybersecurity
+# Google Cybersecurity Certificate — The History of Cybersecurity
 
 This module explores how early cyber attacks shaped today’s security industry, how threat actor techniques evolved over time, and why modern cybersecurity practices exist. It connects historical attacks to the frameworks, teams, and defensive strategies used today.
 
