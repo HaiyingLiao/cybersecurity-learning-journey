@@ -28,11 +28,12 @@ My goal is to build a strong foundation in security principles, develop practica
 
 ## Learning Index
 
-| Date       | Topic / Room / Module                                                                  | Summary                                                                                                                                                         | Tools                                        |
-| ---------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| 2025-11-27 | [Google — Introduction to Cybersecurity](google/foundations-of-cybersecurity/module-1) | Learned what cybersecurity is, why it matters, and the importance of protecting PII/SPII to maintain trust and prevent breaches                                 | PII, SPII, cybersecurity basics              |
-| 2025-11-28 | [Offensive Security Intro (THM)](tryhackme/offensive-security-intro/README.md)         | Learned what offensive security is, attacker mindset, and used dirb to brute-force hidden web directories                                                       | dirb, web recon                              |
-| 2025-12-01 | [Google — History of Cybersecurity](google/foundations-of-cybersecurity/module-2/)     | Learned how past attacks shaped modern security; explored malware evolution, social engineering origins, major breaches like Equifax, and common attack methods | Malware, worms, phishing, social engineering |
+| Date       | Topic / Room / Module                                                                    | Summary                                                                                                                                                         | Tools                                        |
+| ---------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 2025-11-27 | [Google — Introduction to Cybersecurity](google/foundations-of-cybersecurity/module-1)   | Learned what cybersecurity is, why it matters, and the importance of protecting PII/SPII to maintain trust and prevent breaches                                 | PII, SPII, cybersecurity basics              |
+| 2025-11-28 | [Offensive Security Intro (THM)](tryhackme/offensive-security-intro/README.md)           | Learned what offensive security is, attacker mindset, and used dirb to brute-force hidden web directories                                                       | dirb, web recon                              |
+| 2025-12-01 | [Google — History of Cybersecurity](google/foundations-of-cybersecurity/module-2/)       | Learned how past attacks shaped modern security; explored malware evolution, social engineering origins, major breaches like Equifax, and common attack methods | Malware, worms, phishing, social engineering |
+| 2025-12-04 | [Google — Security Frameworks & Controls](google/foundations-of-cybersecurity/module-3/) | Learned how frameworks guide risk management, how controls reduce threats, and how the CIA triad supports organisational security and compliance                | CIA triad, NIST, controls, compliance        |
 
 ---
 
