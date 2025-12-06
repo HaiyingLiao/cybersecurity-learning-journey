@@ -34,6 +34,7 @@ My goal is to build a strong foundation in security principles, develop practica
 | 2025-11-28 | [Offensive Security Intro (THM)](tryhackme/offensive-security-intro/README.md)           | Learned what offensive security is, attacker mindset, and used dirb to brute-force hidden web directories                                                       | dirb, web recon                              |
 | 2025-12-01 | [Google — History of Cybersecurity](google/foundations-of-cybersecurity/module-2/)       | Learned how past attacks shaped modern security; explored malware evolution, social engineering origins, major breaches like Equifax, and common attack methods | Malware, worms, phishing, social engineering |
 | 2025-12-04 | [Google — Security Frameworks & Controls](google/foundations-of-cybersecurity/module-3/) | Learned how frameworks guide risk management, how controls reduce threats, and how the CIA triad supports organisational security and compliance                | CIA triad, NIST, controls, compliance        |
+| 2025-12-06 | [Google — Cybersecurity Tools & Toolkit](google/foundations-of-cybersecurity/module-4/)  | Learned SIEM basics, packet sniffers, playbooks, forensic concepts, and core security tools like IDS, antivirus, encryption, and pen testing                    | SIEM, IDS, packet sniffers, encryption       |
 
 ---
 
