@@ -18,7 +18,7 @@ This room introduced me to the basics of **offensive security** and gave me my f
 
 ---
 
-## 🛠 Practical Skills I Learned
+## Practical Skills I Learned
 
 ### 1. Directory Brute-Forcing (dirb)
 
@@ -37,7 +37,7 @@ I used **dirb** to perform a brute-force scan of a website:
 
 ---
 
-## 🎯 Skills Gained
+## Skills Gained
 
 - Understanding _attacker mindset_
 - Basic web reconnaissance
