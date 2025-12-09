@@ -2,7 +2,7 @@
 
 ## This module introduces the essential tools, technologies, and concepts that entry-level analysts encounter.
 
-# 🧠 What I learned
+# What I learned
 
 ### Analysts use many tools, each serving a specific purpose
 
@@ -72,9 +72,9 @@ A principle for preserving the most fragile data first in investigations.
 
 ---
 
-# 🧰 Additional Tools & Concepts
+# Additional Tools & Concepts
 
-## 💻 Operating Systems (Linux, macOS, Windows)
+## Operating Systems (Linux, macOS, Windows)
 
 This module teaches:
 
